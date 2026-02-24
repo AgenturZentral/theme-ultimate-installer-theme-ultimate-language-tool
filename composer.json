@@ -3,7 +3,7 @@
     "description":  "Installer package for Theme Ultimate Language Tool.",
     "type":  "contao-provider",
     "license":  "proprietary",
-    "version":  "1.0.4",
+    "version":  "1.0.0",
     "homepage":  "https://www.theme-ultimate.de",
     "keywords":  [
                      "theme-ultimate",
@@ -24,6 +24,7 @@
                 },
     "require":  {
                     "theme-ultimate/repository-license":  "^1.0",
-                    "theme-ultimate/theme-ultimate-language-tool":  "^1.0.4"
+                    "theme-ultimate/theme-ultimate-language-tool":  "^1.0"
                 }
 }
+
